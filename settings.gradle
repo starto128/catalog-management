@@ -1,0 +1,6 @@
+rootProject.name = 'catalog-manager'
+include 'api-module'
+include 'core-module'
+include 'naver-module'
+
+
